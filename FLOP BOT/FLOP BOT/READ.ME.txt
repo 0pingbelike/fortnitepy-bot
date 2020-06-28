@@ -1,0 +1,54 @@
+any issues with the bot please join our discord and ask around
+https://discord.gg/DJrYhV2
+
+!skin
+!unfriend
+!season
+!chapter
+!gift (dosnt work)
+!leave
+!uninstall (troll command)
+!level
+!backpack
+!copy 
+!hologram
+!emote
+!stop
+!mathmakingcode
+!match
+!lobby
+!pickaxe
+!point
+!hide (bot must have host)
+!eid
+!promote
+!purpleskull
+!cid
+!CID
+!Purpleportal
+!pet
+!join
+!ready
+!unready
+!goldenpeely
+!kick
+!default
+!shutdown (close the bot)
+!clean
+!shop
+!new
+!justchattin
+!variants
+!set
+!pickaxe_id
+
+ok so when you have downloaded the bot go into config.json and put an alt epic email account and password make sure to have the bot 
+added on your main so when it comes online you can invite the bot to your game after save config.json and run 'install packages'
+after that start the bot and BOOOOOOOOM your bot should now be online 
+
+if it asks for the AUTH code go to this web address (https://www.epicgames.com/id/logout?redirectUrl=https%3A//www.epicgames.com/id/login%3FredirectUrl%3Dhttps%253A%252F%252Fwww.epicgames.com%252Fid%252Fapi%252Fredirect%253FclientId%253D3446cd72694c4a4485d81b77adbb2141%2526responseType%253Dcode)
+and sign in with the alt account that you put into the config.json and then this should appear ({"redirectUrl":"https://accounts.epicgames.com/fnauth?code=hd9ghdf9df75hfd9h5d9dh599h5d9h59d","sid":null})
+
+                                                                                                                       COPY EVERYTHING ABOVE THIS EXAMPLE (hd9ghdf9df75hfd9h5d9dh599h5d9h59d)
+
+and then go back to the CMD and paste that into there and you should now be done
